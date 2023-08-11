@@ -49,7 +49,7 @@
 				<h2 class="bold blue-5">Tuboplus</h2>
 				<p>Tuboplus cuenta con las mejores opciones de conducción de agua para las diferentes necesidades de la construcción. Los sistemas para la conducción de agua son muy diversos y necesitan ser capaces de soportar altas temperaturas, altas presiones, y superar los problemas de unión de las tuberías convencionales, hace más de 15 años Tuboplus incursiono con un material que revolución las instalaciones hidráulicas en México con el Polipropileno Copolímero Random (PP-R), con este avance hizo posible la producción de tubos y conexiones con gran resistencia a los impactos, diseñados especialmente para transportar agua caliente o fría en forma eficiente.</p>
 			</div>
-			<div class="col-12 p-3 | col-md-4 offset-md-1">
+			<div class="col-12 p-3 | col-md-5 offset-md-1">
 				<div class="video-container">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUU1P1WBCGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
