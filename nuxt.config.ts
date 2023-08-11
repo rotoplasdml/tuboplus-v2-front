@@ -17,13 +17,20 @@ export default defineNuxtConfig({
 				},
 				{ 
 					rel: 'stylesheet', 
-					href: '/css/styles.css',
+					href: 'https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css',
+				},
+				{ 
+					rel: 'stylesheet', 
+					href: '/css/estilos.css',
 				}
 			],
 			script: [
 				{ 
 					src: '/js/bootstrap.bundle.min.js',
 					body: true 
+				},
+				{ 
+					src: 'https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js'
 				}
 			]
 		}
